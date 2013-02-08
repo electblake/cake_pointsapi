@@ -1,0 +1,15 @@
+{
+    "name": "electblake/cake_pointsapi",
+    "type": "cakephp-plugin",
+    "description": "A Points API for CakePHP",
+    "keywords": ["cakephp","points"],
+    "authors": [
+        {
+            "name": "electblake",
+            "email": "electblake@gmail.com"
+        }
+    ],
+    "require": {
+        "composer/installers": "*"
+    }
+}
